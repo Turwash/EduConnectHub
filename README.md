@@ -1,6 +1,9 @@
 # EduConnectHub
 The Edu-Connect Hub project aims to develop a comprehensive and interactive online platform designed to foster collaboration and communication between students and teachers in an educational setting. 
 
+![Firefly Education 67605](https://github.com/Turwash/EduConnectHub/assets/121122397/af052b8c-8988-4ae2-822f-df688756f405)
+
+
 ### Feature List:
  
 - User authentication
