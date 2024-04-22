@@ -1,6 +1,5 @@
-# NCCBUDDY
-Social Media Clone Developed In Django
-This project is basic social media features.
+# EduConnectHub
+The Edu-Connect Hub project aims to develop a comprehensive and interactive online platform designed to foster collaboration and communication between students and teachers in an educational setting. 
 
 ### Feature List:
  
@@ -55,12 +54,3 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-
-## Authors
-
-* **Uttam Velani**
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-### REDUCE PLASTIC USE AND SAVE ENVIRONMENT
