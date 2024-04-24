@@ -11,9 +11,9 @@ from taggit.managers import TaggableManager
 
 WING = [
     
-    ('ARMY','ARMY'),
-    ('NAVAL','NAVAL'),
-    ('AIR FORCE','AIR FORCE')
+    ('STUDENT','STUDENT'),
+    ('FACULTY','FACULTY'),
+    ('ADMIN','ADMIN')
     
 ]
 
