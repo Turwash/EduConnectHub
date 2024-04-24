@@ -8,6 +8,13 @@ body {
 	color: #000000;
 	margin-top: 5rem;
 	position: relative;
+} 
+
+.card-body, .welcome, .resent-posts-heading, .yourchats, .like, .comment, .profilee, .logout{
+	color: #ffffff;
+}
+#post, #postarticle, #like-count{
+	color: #ffffff;
 }
 
 main {
@@ -154,7 +161,7 @@ ul {
 }
 
 .article-title {
-	color: #ffffff
+	color: #000000
 }
 
 a.article-title:hover {
